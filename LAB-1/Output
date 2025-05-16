@@ -1,0 +1,18 @@
+BUBBLE SORT:-
+
+Enter the number of elements in the array: 10
+array before bubble sort:
+5 30 17 64 64 66 35 65 21 73 
+array after bubble sort:
+5 17 21 30 35 64 64 65 66 73 
+Count: 11
+Time taken for bubble sort: 0.000002 seconds
+
+------------------------------------------------------------------------
+
+SELECTION SORT:-
+
+Enter the number of elements: 10
+Enter 10 elements:
+12 5 20 15 27 37 8 22 9 10
+Sorted array: 5 8 9 10 12 15 20 22 27 37 
